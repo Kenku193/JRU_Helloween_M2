@@ -21,7 +21,5 @@ public class App {
         aircraft.doFly();
         new Plane().doFly();
 
-        JRU_Helloween_M2
-
     }
 }
