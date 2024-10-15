@@ -1,5 +1,6 @@
 package elective01;
 
+import lection05_generics.example2.entity.Bone;
 import lection06_labdas.Car;
 
 import java.util.*;
@@ -71,5 +72,6 @@ public class Example3 {
 
         System.out.println(Collections.max(integerList));
 
+        cars.stream().peek(car1 -> car1.setColor("PINK")).forEach(System.out::println);
     }
 }
