@@ -54,7 +54,7 @@ public class Example5 {
         if (vacation instanceof SummerMonths m) {
             m.swim();
         }
-
+        
 
 
     }
