@@ -1,5 +1,6 @@
 package level08_staticAndConstructors.example1;
 
+
 import java.util.Scanner;
 
 public class App {
